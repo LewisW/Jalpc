@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: PHP, Symfony, Javascript, Doctrine, PHPunit, ElasticSearch, ReactJS, Angular, AWS, CentOS, Docker, Kubernetes
-percentage: 100, 100, 90, 100, 90, 60, 40, 60, 80, 80, 95, 60
+aspects: PHP, Symfony, Javascript, Doctrine, PHPunit, ElasticSearch, ReactJS, MongoDB, Angular, AWS, CentOS, Docker, Kubernetes
+percentage: 100, 100, 90, 100, 90, 60, 40, 70, 60, 80, 80, 95, 60
