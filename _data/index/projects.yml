@@ -1,21 +1,25 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Symfony
+  gh_user: symfony
+  repo: symfony
+  desc: I love Symfony & Doctrine for building data heavy APIs and applications that need to be reliable and scalable.
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Meteor
+  gh_user: meteor
+  repo: meteor
+  desc: Meteor can be quirky to deal with but its unique approach and technologies make it a breeze to create applications with unparalleled user experience.
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: ReactJS
+  gh_user: facebook
+  repo: react
+  desc: I feel like I've barely scratched the surface with all that is possible with ReactJS and React Native, I'm looking forward to using it more in the future.
+
+- name: AWS Lambda
+  desc: AWS Lambda has revolutionised the way I design and build micro services. Unlimited scalability at a fraction of the cost.
+
+- name: NGINX
+  gh_user: nginx
+  repo: nginx
+  desc: It's fast, scalable and flexible. NGINX has never ceased to amaze me with its usefullness
