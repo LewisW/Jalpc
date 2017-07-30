@@ -27,7 +27,7 @@ author:  # change following line to your infomation.
     - name: icon-php-alt
   skill_icon2:
     - name: icon-symfony
-    - name: icon-reactjs
+    - name: icon-docker
   desc:  I am a full stack developer living in Manchester. I specialise in Symfony and Meteor but I have a huge amount of experience in a number of technologies and roles. I write fast, secure and scalable software for businesses and am a huge proponent of BDD/TDD.
 
 # comment
