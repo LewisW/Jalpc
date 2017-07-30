@@ -1,29 +1,97 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Holmes Media
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: >
+      My role as senior software developer included helping plan, architect and execute a major rebuild of the legacy
+      back-office system that powered the entire business, as a Symfony 2 and Angular application. Other aspects of the
+      role included assisting in hiring decisions, training and mentoring other developers. I was also responsible for
+      implementing, a continuous integration platform, including a framework for fast and reliable functional and end-to-end tests.
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: March 2016
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Senior Software Developer
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Viva IT
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: >
+      As technical director, my role involved designing and maintaining every process related to the successful delivery of software. This included:
+        * Implementing an agile, behaviour driven development methodology throughout the entire business.
+        * Hiring, training and leading a team of software developers to a high standard.
+        * Planning, architecting and building bespoke Symfony2 applications.
+        * Implementing a highly effective QA and deployment process to allow continuous integration and redundant, scalable infrastructure.
+        * Understanding user requirements and ensuring the delivered product is on time and truly satisfies these requirements.
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: December 2013
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Technical Director
+  icon: fa-plus-square
+
+- name:
+    detail: PHP & Symfony consultant
+  desc:
+    detail: >
+      Working as a consultant required me to be able to learn and adapt to any role that was required of me, as well as work with a variety of language and technologies. Projects that I led and worked on included ones for Speedo International, Primark, TalkTalk, and many other small to large projects.
+  date:
+    detail: September 2012
+  job:
+    detail:
+  icon: fa-plus-square
+
+- name:
+    detail: EazyTiger
+  desc:
+    detail: >
+      I was contracted at EazyTiger to work as a full-time consultant. This largely involved working with their bespoke PHP CMS system, which I was soon able to learn and utilize. I was also responsible for working on a number of Wordpress and Magento websites, creating custom modules and assisting in front-end building. During this role I greatly increased my Magento expertise to a very competent level.
+  date:
+    detail: March 2012
+  job:
+    detail: Consultant Web Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Cite DMS
+  desc:
+    detail: >
+      In my role with Cite, I was tasked with leading numerous projects as well as working with other developers. These mostly included Wordpress, Facebook, Joomla, and Magento projects. I also successfully introduced versioning (using Subversion) and automated deployment to staging servers, and helped improve the collaborative development environment.
+  date:
+    detail: June 2010
+  job:
+    detail: Consultant Web Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Selesti
+  desc:
+    detail: >
+      Working as the Lead Web Developer, I was tasked with leading the creation of websites and software based on specifications provided by the project managers. I was also responsible for maintaining the servers and helping the project managers oversee development of all outsourced and existing projects. I designed and created a powerful edit-in-place CMS and backoffice, using the Kohana framework, which is still in use today.
+  date:
+    detail: February 2009
+  job:
+    detail: Lead Web Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Hayes Computing Solutions
+  desc:
+    detail: >
+      Starting off as a Junior Developer, I quickly rose to take up the role of Lead Developer. Because of the small size of the company, I was responsible for interacting with and providing support to customers on a daily basis. My achievements included creating a central framework and CMS/database management system that powered all of our software and websites. The software was designed with extensibility and SEO in mind and greatly increased the company’s efficiency and the success of its SEO campaigns.
+  date:
+    detail: July 2007
+  job:
+    detail: Lead Web Developer
+  icon: fa-plus-square
+
+- name:
+    detail: Omega Vortex
+  desc:
+    detail: >
+      Omega Vortex was an internet-based software products & services company registered in Alabama, USA. My roles included designing interfaces, creating product and function specifications, using version control systems, working with clients, designing user interfaces, and creating PHP software.
+  date:
+    detail: September 2004
+  job:
+    detail: Web Developer
   icon: fa-plus-square

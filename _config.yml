@@ -2,7 +2,7 @@
 
 # Website settings
 title: Lewis Wright - PHP freelancer in Manchester
-description: I am a full stack developer living in Manchester. I specialise in Symfony and Meteor but I have a huge amount of experience in a number of technologies and roles. I write fast, secure and scalable software for businesses and am a huge proponent of BDD/TDD.
+description: Freelance full stack developer specialising in AWS, PHP/Symfony and Node/Meteor stacks
 keywords: php,freelancer,manchester,salford,node,javascript,meteor,angular,react,tdd,bdd
 baseurl:  /
 url: http://allwrightythen.com
@@ -25,11 +25,14 @@ author:  # change following line to your infomation.
   skill_icon1:
     - name: icon-nodejs
     - name: icon-php-alt
+    - name: icon-aws
+    - name: icon-docker
   skill_icon2:
     - name: icon-symfony
-    - name: icon-docker
-  desc:  I am a full stack developer living in Manchester. I specialise in Symfony and Meteor but I have a huge amount of experience in a number of technologies and roles. I write fast, secure and scalable software for businesses and am a huge proponent of BDD/TDD.
-
+    - name: icon-magento
+    - name: icon-react
+    - name: icon-angular
+  desc: During my 15 years of programming, I've held a many roles including senior developer, release manager, scrum master, technical director, and have built and ran successful software related businesses. This experience means that beyond sofware development, I can also help startups plan and build their infrastructure, culture and even help build there team.
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: allwrightythen
